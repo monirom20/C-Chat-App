@@ -72,4 +72,4 @@ Both client and server programs include basic error handling to manage connectio
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
